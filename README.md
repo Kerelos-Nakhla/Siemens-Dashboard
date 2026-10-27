@@ -210,7 +210,14 @@ The report features 6 dedicated analytical perspectives and risk-scoring modules
 
 ### 2. High-Level Workforce Overview
 <p align="center">
-  <img src="./Dashboard%20Previews/Overview%20Page.png" alt="HR Attrition — Overview Dashboard" width="95%">
+  <img src="./Dashboard%20Previews/2-%20Overview%20Page.png" alt="HR Attrition — Overview Dashboard" width="95%">
+</p>
+
+
+
+### Additional Overview Page
+<p align="center">
+  <img src="./Dashboard%20Previews/1-%20Overview%20Page.png" alt="HR Attrition — Overview Page 1" width="95%">
 </p>
 
 ### 3. Turnover Root-Cause Drivers
@@ -220,7 +227,7 @@ The report features 6 dedicated analytical perspectives and risk-scoring modules
 
 ### 4. Demographic & Diversity Intelligence
 <p align="center">
-  <img src="./Dashboard%20Previews/Demographic%20Page.png" alt="HR Attrition — Demographics Dashboard" width="95%">
+  <img src="./Dashboard%20Previews/Demographics%20Page.png" alt="HR Attrition — Demographics Dashboard" width="95%">
 </p>
 
 ### 5. Career Progression & Compensation Equity
@@ -232,6 +239,14 @@ The report features 6 dedicated analytical perspectives and risk-scoring modules
 <p align="center">
   <img src="./Dashboard%20Previews/1-%20Risk%20Intelligence%20Page.png" alt="HR Attrition — Risk Intelligence Module" width="95%">
 </p>
+
+
+
+### Additional Risk Intelligence Page
+<p align="center">
+  <img src="./Dashboard%20Previews/2-%20Risk%20Intelligeence%20Page.png" alt="HR Attrition — Risk Intelligence Page 2" width="95%">
+</p>
+
 
 ---
 
