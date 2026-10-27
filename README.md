@@ -286,11 +286,6 @@ The data model connects normalized human resources dimensions to transactional e
 - **Specialized Table:**
   - `HTML Visuals`: Dynamic SVG and HTML measure library delivering interactive executive layouts directly in Power BI.
 
-### 📐 Star Schema Representation
-<p align="center">
-  <img src="./Dashboard%20Previews/Model.png" alt="HR Attrition — Power BI Star Schema Model" width="95%">
-</p>
-
 ---
 
 ## ⚙️ ETL & Power Query Pipeline
