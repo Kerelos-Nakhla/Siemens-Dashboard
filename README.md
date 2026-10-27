@@ -205,48 +205,48 @@ The report features 6 dedicated analytical perspectives and risk-scoring modules
 
 ### 1. Executive Landing & Portal
 <p align="center">
-  <img src="./Dashboard%20Previews/Landing%20Page.png" alt="HR Attrition — Landing Portal" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Siemens-Dashboard/main/Dashboard%20Previews/Landing%20Page.png" alt="HR Attrition — Executive Landing & Portal" width="95%">
 </p>
 
-### 2. High-Level Workforce Overview
+### 2. Overview Page 1
 <p align="center">
-  <img src="./Dashboard%20Previews/2-%20Overview%20Page.png" alt="HR Attrition — Overview Dashboard" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Siemens-Dashboard/main/Dashboard%20Previews/1-%20Overview%20Page.png" alt="HR Attrition — Overview Page 1" width="95%">
 </p>
 
-
-
-### Additional Overview Page
+### 3. Overview Page 2
 <p align="center">
-  <img src="./Dashboard%20Previews/1-%20Overview%20Page.png" alt="HR Attrition — Overview Page 1" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Siemens-Dashboard/main/Dashboard%20Previews/2-%20Overview%20Page.png" alt="HR Attrition — Overview Page 2" width="95%">
 </p>
 
-### 3. Turnover Root-Cause Drivers
+### 4. Turnover Root-Cause Drivers
 <p align="center">
-  <img src="./Dashboard%20Previews/Drivers%20Page.png" alt="HR Attrition — Drivers Dashboard" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Siemens-Dashboard/main/Dashboard%20Previews/Drivers%20Page.png" alt="HR Attrition — Turnover Root-Cause Drivers" width="95%">
 </p>
 
-### 4. Demographic & Diversity Intelligence
+### 5. Demographic & Diversity Intelligence
 <p align="center">
-  <img src="./Dashboard%20Previews/Demographics%20Page.png" alt="HR Attrition — Demographics Dashboard" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Siemens-Dashboard/main/Dashboard%20Previews/Demographics%20Page.png" alt="HR Attrition — Demographic & Diversity Intelligence" width="95%">
 </p>
 
-### 5. Career Progression & Compensation Equity
+### 6. Career Progression & Compensation Equity
 <p align="center">
-  <img src="./Dashboard%20Previews/Career%20&%20Pay%20Page.png" alt="HR Attrition — Career and Pay Dashboard" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Siemens-Dashboard/main/Dashboard%20Previews/Career%20%26%20Pay%20Page.png" alt="HR Attrition — Career Progression & Compensation Equity" width="95%">
 </p>
 
-### 6. Predictive Flight Risk Intelligence Matrix
+### 7. Risk Intelligence Page 1
 <p align="center">
-  <img src="./Dashboard%20Previews/1-%20Risk%20Intelligence%20Page.png" alt="HR Attrition — Risk Intelligence Module" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Siemens-Dashboard/main/Dashboard%20Previews/1-%20Risk%20Intelligence%20Page.png" alt="HR Attrition — Risk Intelligence Page 1" width="95%">
 </p>
 
-
-
-### Additional Risk Intelligence Page
+### 8. Risk Intelligence Page 2
 <p align="center">
-  <img src="./Dashboard%20Previews/2-%20Risk%20Intelligeence%20Page.png" alt="HR Attrition — Risk Intelligence Page 2" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Siemens-Dashboard/main/Dashboard%20Previews/2-%20Risk%20Intelligeence%20Page.png" alt="HR Attrition — Risk Intelligence Page 2" width="95%">
 </p>
 
+### 9. Data Model
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Siemens-Dashboard/main/Dashboard%20Previews/Model.png" alt="HR Attrition — Data Model" width="95%">
+</p>
 
 ---
 
